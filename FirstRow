@@ -1,0 +1,14 @@
+
+public class FirstRow {
+	
+	StringBuilder FirstRow = new StringBuilder("");
+
+	public final void pierwszyRzad() {
+		
+		FirstRow.append("Zawodnik\t").append("PTS\t").append("RBD\t").append("AST\t").append("STL\t").append("BLK\t");
+		
+		System.out.println(FirstRow);
+				
+	}
+	
+}
