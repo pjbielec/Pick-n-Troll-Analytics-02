@@ -1,0 +1,12 @@
+0
+LeBron James
+PTS
+25,2
+RBD
+8,1
+ASS
+8,6
+STL
+1,5
+BLK
+0,9
